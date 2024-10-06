@@ -1,6 +1,6 @@
 import os
 # Set the working directory
-os.chdir("C:/Users/kalab/OneDrive/Desktop/py4e/assignment 7/")
+os.chdir("C:/Users/kalab/OneDrive/Desktop/py4e/python first programms/dataanalysis IBM/Python Project for Data Science final project")
 print("Current Working Directory:", os.getcwd())  # Check if the working directory is correct
 
 
@@ -17,7 +17,7 @@ import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
 
-
+print("change1")
 
 
 #using yfinance to extract gamestop stock data  
